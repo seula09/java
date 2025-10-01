@@ -10,3 +10,4 @@ public class D extends A{
 		this.method();
 	}
 }
+
