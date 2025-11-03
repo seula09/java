@@ -6,7 +6,9 @@ public class ChildExample {
 		Child child = new Child();
 		
 		Parent parent = child;
+		
 		parent.method1();
+		
 		parent.method2();
 
 	}

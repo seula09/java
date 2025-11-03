@@ -1,6 +1,7 @@
 package sec01.exam06;
 
 public class Car {
+	
 	public int speed;
 	
 	public void speedUp() {
